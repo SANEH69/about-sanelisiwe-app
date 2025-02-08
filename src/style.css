@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+   .container {
+    text-align: left;
+    background-color: blueviolet;
+   } 
+}
